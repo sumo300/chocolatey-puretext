@@ -1,1 +1,1 @@
-﻿choco pack .\src\SqlSearch.nuspec
+﻿choco pack .\src\puretext.nuspec
