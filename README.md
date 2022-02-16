@@ -1,3 +1,9 @@
+## IMPORTANT - REPO MOVED
+
+Code for this package has moved to a repo that automatically updates any time a new version of PureText is released.
+
+https://github.com/sumo300/chocolatey-packages-au
+
 ## Steve Miller's PureText Chocolatey Package
 
 This is the code I use to publish the PureText package to Chocolatey. 
